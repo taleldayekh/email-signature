@@ -17,11 +17,15 @@ Custom email signature with HTML and CSS.
 
 4. Open the signature file ending with `.mailsignature`.
 
-5. Replace the `<body>` and its content with the HTML code from the `email-signature.html` file. Leave any other code as is.
+5. Replace the `<body>` and its content with the HTML code from the `email-signature.html` file. Leave any other code as is and close the file.
 
-6. Restart Apple Mail.
+6. Right click on the `.mailsignature` file and click `Get Info`.
 
-7. The HTML signature will now be available and selectable whenever composing an email.
+7. Tick the `Locked` checkbox.
+
+8. Restart Apple Mail.
+
+9. The HTML signature will now be available and selectable whenever composing an email.
 
 | Compose Email                                                 |
 | ------------------------------------------------------------- |
