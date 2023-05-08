@@ -23,6 +23,10 @@ Custom email signature with HTML and CSS.
 
 7. The HTML signature will now be available and selectable whenever composing an email.
 
+| Compose Email                                                 |
+| ------------------------------------------------------------- |
+| ![Compose Email macOS](/screenshots/compose-email-macos.jpeg) |
+
 # Setup Signature for Apple Mail on iPhone
 
 1. Send the `email-signature.html` file as an attachment in an email to yourself.
@@ -39,6 +43,6 @@ Custom email signature with HTML and CSS.
 
 7. The HTML signature will now be available an appear whenever composing an email.
 
-| Copy Signature                                      | Revert Formatting                                         | Compose Email                                      |
-|-----------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------|
-| ![Copy Signature](/screenshots/copy-signature.jpeg) | ![Revert Formatting](/screenshots/revert-formatting.jpeg) | ![Compose Email](/screenshots//compose-email.jpeg) |
+| Copy Signature                                      | Revert Formatting                                         | Compose Email                                                   |
+| --------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------- |
+| ![Copy Signature](/screenshots/copy-signature.jpeg) | ![Revert Formatting](/screenshots/revert-formatting.jpeg) | ![Compose Email iPhone](/screenshots/compose-email-iphone.jpeg) |
