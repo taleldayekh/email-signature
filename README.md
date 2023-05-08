@@ -27,7 +27,7 @@ Custom email signature with HTML and CSS.
 
 9. The HTML signature will now be available and selectable whenever composing an email.
 
-| Compose Email                                                 |
+|                                                               |
 | ------------------------------------------------------------- |
 | ![Compose Email macOS](/screenshots/compose-email-macos.jpeg) |
 
@@ -47,6 +47,6 @@ Custom email signature with HTML and CSS.
 
 7. The HTML signature will now be available an appear whenever composing an email.
 
-| Copy Signature                                      | Revert Formatting                                         | Compose Email                                                   |
+|                                                     |                                                           |                                                                 |
 | --------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------- |
 | ![Copy Signature](/screenshots/copy-signature.jpeg) | ![Revert Formatting](/screenshots/revert-formatting.jpeg) | ![Compose Email iPhone](/screenshots/compose-email-iphone.jpeg) |
